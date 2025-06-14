@@ -1,0 +1,13 @@
+# WordPress core
+/wp-admin/
+/wp-includes/
+
+# Секреты
+wp-config.php
+
+# Кэш, загрузки, мусор
+*.log
+/wp-content/uploads/
+.DS_Store
+node_modules/
+dist/
